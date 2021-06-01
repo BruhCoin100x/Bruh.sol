@@ -1,0 +1,2 @@
+# Bruh.sol
+BruhCoin
